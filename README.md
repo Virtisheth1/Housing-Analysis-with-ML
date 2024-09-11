@@ -16,7 +16,7 @@ The goal of this project is to explore the relationship between various factors 
 - Visualized the correlation between **house sales price** and **area (sqft living)**, showing a positive correlation: as the living area increases, the sales price tends to increase.
 - Created additional plots to explore relationships between housing prices and other variables like **number of bedrooms**, **bathrooms**, and **zipcode**.
 
- Technologies Used
+## Technologies Used
 - **Languages**: Python
 - **Libraries**:
   - `pandas` for data manipulation.
